@@ -1,6 +1,6 @@
 <h1 align="center">
   Meowing meow
-  <img align="right" src="https://i.imgur.com/ZJ52Zu0.png">
+  <img align="left" src="https://i.imgur.com/ZJ52Zu0.png">
 </h1>
 <p align="center">
   meow?<br>
